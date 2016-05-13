@@ -2,7 +2,7 @@
 
 ## What does this code do
 
-This module will allow you to impose SVG layer over the image
+This module will allow you to impose SVG layer over the image. You don't need to paste the image, just set necessary block element into the settings, and set necessary image and SVG-mask into the settings
 
 ## How to use
 
